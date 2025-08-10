@@ -1,7 +1,3 @@
 [
-  "human_services:internal_emergency_services",
-  "human_services:emergency:emergency_mental_assistance",
-  "human_services:emergency:emergency_helpline",
-  "human_services:emergency:emergency_food",
-  "human_services:place:health:clinic:mental_health_clinic"
+
 ]
